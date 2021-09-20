@@ -19,3 +19,5 @@ Visit Link to the app:https://weather-mast.netlify.app
 Github:https://github.com/Ashnagdarc/Weather-App
 
 Created by Daniel Samuel In September 20th 2021.country 
+
+![screenshot-weather-mast netlify app-2021 09 20-13_36_35](https://user-images.githubusercontent.com/46603289/134005408-fd06d972-e761-47f3-9b03-de83d84fb6d4.png)
